@@ -5,7 +5,7 @@ description: >
     for a relevant financial services company established in Europe.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://albertmonfa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: Albert Monfà
